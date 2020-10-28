@@ -45,7 +45,7 @@ document.addEventListener('keydown', function(event) {
     }
 
     if(event.keyCode == 70 ) {
-    alert("You Pay Respect! Thanks <3 ");
+    alert("You Paid Respect! Thanks <3 ");
     }
 
     if(event.keyCode == 107 ) {
